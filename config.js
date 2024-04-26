@@ -7,26 +7,26 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "212703444762"
 
 global.owner = [
-  ['212717457920', 'bobiza', true],
+  ['212705117543', 'Reven', true],
 
-  ['212717457920','bobiza', true],
-  ['212717457920'],
-  ['212717457920']
+  ['212705117543','Reven', true],
+  ['212705117543'],
+  ['212705117543']
 ];
 
-global.suittag = ['212717457920'];
-global.prems = ['212717457920'];
+global.suittag = ['212705117543'];
+global.prems = ['212705117543'];
 
-global.packname = 'bobiza bot';
-global.author = 'bobiza';
-global.wm = 'bobiza';
-global.titulowm = 'bobiza';
-global.titulowm2 = `bobiza`
-global.igfg = 'bobiza';
-global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* ♥\ninstagram.com/noureddine_ouafy';
+global.packname = 'Reven Zenin';
+global.author = 'Reven';
+global.wm = 'Reven';
+global.titulowm = 'Reven Zenin';
+global.titulowm2 = `Reven`
+global.igfg = 'Reven';
+global.wait = '*|🏃| loading...*\n*نحاول تلبية طلبكم لا تستعجلوا* https://www.instagram.com/alyaa__zenin?igsh=OGQ5ZDc2ODk2ZA==';
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
 global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png');
@@ -45,15 +45,15 @@ global.mes = d.toLocaleDateString('en', {month: 'long'});
 global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nBOBIZA`;
-global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
-global.md = 'https://instagram.com/noureddine_ouafy';
-global.mysticbot = 'https://instagram.com/noureddine_ouafy';
+global.wm2 = `${dia} ${fecha}\nREVEN';
+global.gt = 'Reven';
+global.mysticbot = 'The REVEN';
+global.md = 'https://www.instagram.com/alyaa__zenin?igsh=OGQ5ZDc2ODk2ZA==';
+global.mysticbot = 'https://www.instagram.com/alyaa__zenin?igsh=OGQ5ZDc2ODk2ZA==';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
 global.waitttt = '*[ ⏳ ] LOADING...*';
-global.nomorown = '212605784394';
+global.nomorown = '212705117543';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
