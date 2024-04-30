@@ -16,7 +16,7 @@ const defaultMenu = {
   header: '╭─────≼ %category ≽',
   body: '╎≡ %cmd',
   footer: '╰┄┄┄┄┄┄┄┄┄┄┄┄┄〢',
-  after: 'BOBIZA 👑',
+  after: 'REVEN 🧡🎗️',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 let tags = {
@@ -180,7 +180,7 @@ let tags = {
 	title: 'قسم خاص بصاحب البوت فقط',
 	body: 'اليك الاوامر الخاصة بهذا القسم',
 	thumbnailUrl: 'https://telegra.ph/file/22455a32e324068fa1922.jpg',
-	sourceUrl: 'instagram.com/noureddine_ouafy',
+	sourceUrl: 'https://www.instagram.com/alyaa__zenin',
 	mediaType: 1,
 	renderLargerThumbnail: true
 	}}})
