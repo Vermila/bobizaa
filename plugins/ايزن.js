@@ -63,7 +63,7 @@ var hawemod = [
  }
 loading()    
 };
-handler.help = ['ايزن'];
+handler.help = ['aizen'];
 handler.tags = ['fun'];
 handler.command = /^(ايزن|سوسكي)$/i;
 export default handler;
