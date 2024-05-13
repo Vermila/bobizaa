@@ -143,7 +143,7 @@ sourceUrl: 'https://www.instagram.com/alyaa__zenin?igsh=OGQ5ZDc2ODk2ZA==',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
-conn.sendMessage(m.chat, {audio: { url: 'https://a.uguu.se/mGfMUnlJ' }, mimetype:'audio/mpeg', ptt:true}, {quoted:m})
+conn.sendMessage(m.chat, {audio: { url: 'https://cdn.sazumi.moe/file/uiwnr2' }, mimetype:'audio/mpeg', ptt:true}, {quoted:m})
     /*conn.sendFile(m.chat, 'menu.png', text.trim(), m, null, )
     /*conn.sendButton(m.chat, text.trim(), '▢ DyLux  ┃ ᴮᴼᵀ\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff', pp, [
       ['ꨄ︎ Apoyar', `${_p}donate`],
